@@ -1,0 +1,27 @@
+.img{
+    background-color: #01B060;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.working-img{
+    width: 350px;
+}
+.footer{
+    border: 5px solid #01B060;
+    background-color: #01B060;
+}
+a{
+    font-size: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+#img-j{
+    width: 1rem;
+    height:1rem;
+}

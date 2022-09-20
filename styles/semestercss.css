@@ -1,0 +1,19 @@
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #01B060;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    height: 270px;
+    margin: 20px 0;
+}
+.mid-body{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.footer{
+    border: 5px solid #01B060;
+    background-color: #01B060;
+}

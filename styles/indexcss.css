@@ -1,0 +1,105 @@
+.container{
+    margin:20px 0;
+}
+.top-section{
+    background-color: #01B060;
+    display: flex;
+    margin: 20px 0 50px 0;
+}
+.top-gu-logo{
+    height: 14rem;
+    padding: 20px;
+}
+.top-right-text{
+    width: 100%;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+}
+.top-right-section{
+    width: 100%;
+    margin: auto 0px;
+   
+}
+.top-right-sub-text{
+    width: auto 0px;
+    font-size: 16px;
+}
+.student_img{
+    height: 220px;
+}
+
+/* body : Notes and past papers */
+.last-year-paper-txt{
+    font-size: 30px;
+    font-weight: 600;
+    width: 180px;
+}
+.last-year-papers,.notes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+/* <!-- body : help section --> */
+.help-section{
+    border: 5px solid #196226;
+}
+.help-col{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.help-col-top{
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.btn-help{
+    width: 180px;
+}
+
+/* Footor */
+
+.bottom-section{
+    background-color: #01802C;
+    color: aliceblue;
+    height: 160px;
+}
+.bottom-section-left{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.contact{
+    font-size: 30px;
+    margin:0 0 4px 0;
+    font-weight: 600;
+}
+.linkedin{
+    width: 30px;
+}
+.insta{
+    width: 30px;
+}
+.bottom-section-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.l-logo{
+    margin: 10px;
+}
+.btm-sec{
+    font-weight: 600;
+    font-size: 30px;
+}
+.extra{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+}
